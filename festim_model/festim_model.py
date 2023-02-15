@@ -2,6 +2,8 @@ import festim as F
 import fenics as f
 import h_transport_materials as htm
 
+from cylindrical_integrator import CylindricalFlux
+
 print(f"HTM version {htm.__version__}")
 
 
@@ -66,12 +68,12 @@ def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="resul
     model.T = F.Temperature(760)
 
     model.settings = F.Settings(
-        absolute_tolerance=1e4, relative_tolerance=1e-10, final_time=15 * 3600
+        absolute_tolerance=1e4, relative_tolerance=1e-10, final_time=7 * 3600
     )
     model.dt = F.Stepsize(initial_value=10, stepsize_change_ratio=1.1)
 
     derived_quantities = F.DerivedQuantities(
-        [F.HydrogenFlux(surface=2), F.HydrogenFlux(surface=3)],
+        [F.HydrogenFlux(surface=2), CylindricalFlux(surface=3)],
         filename=f"{folder}/derived_quantities.csv",
     )
 
