@@ -1,13 +1,12 @@
 from festim_model import make_model
 import numpy as np
 
-salt_thickness = 10e-3
-salt_diameter = 100e-3
+salt_thickness = 8e-3
+salt_diameter = 80e-3
 
 T_values = np.linspace(730, 900, num=4)
 
 if __name__ == "__main__":
-
     for T in T_values:
         model_2d = make_model(
             salt_thickness,

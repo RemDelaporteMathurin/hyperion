@@ -3,10 +3,15 @@ import matplotlib.pyplot as plt
 from matplotlib.colors import Normalize
 import pint
 
-from run_comparison import T_values
+from run_comparison import T_values, salt_diameter, salt_thickness
 
 ureg = pint.UnitRegistry()
 ureg.setup_matplotlib()
+
+
+salt_volume = salt_thickness * ureg.m * (salt_diameter * ureg.m / 2) ** 2 * np.pi
+
+print(f"Salt volume: {salt_volume.to(ureg.ml)}")
 
 plt.gca().xaxis.set_units(ureg.hour)
 
