@@ -68,20 +68,22 @@ def convert_dates_to_time(dates, time_start):
     return [(dt - time_start).total_seconds() for dt in dates]
 
 
-filename = "mid_dry_run_report.csv"
+if __name__ == "__main__":
+    filename = "mid_dry_run_pt2.csv"
 
-data = read_data(filename)
-dates = [parse(date) for date in data["Injection_Acquired_Date"]]
+    data = read_data(filename)
+    dates = [parse(date) for date in data["Injection_Acquired_Date"]]
 
-print(data.dtype.names)
-print(data["Injection_Acquired_Date"])
-print(data["Amount_ppm"])
+    print(data.dtype.names)
+    print(data["Injection_Acquired_Date"])
+    print(data["Amount_ppm"])
 
-time_start = dates[0]
-# Converting list of datetime.datetime objects to list of times in seconds since time_start
-times_in_seconds = np.array(convert_dates_to_time(dates, time_start))
-times_in_hours = times_in_seconds / 3600
-plt.plot(times_in_hours, data["Amount_ppm"], marker="o")
-plt.ylabel("Concentration (ppm)")
-plt.ylim(bottom=0)
-plt.show()
+    time_start = dates[0]
+    # Converting list of datetime.datetime objects to list of times in seconds since time_start
+    times_in_seconds = np.array(convert_dates_to_time(dates, time_start))
+    times_in_hours = times_in_seconds / 3600
+    plt.plot(times_in_hours, data["Amount_ppm"], marker="o")
+    plt.fill_between(times_in_hours, data["Amount_ppm"], alpha=0.3)
+    plt.ylabel("Concentration (ppm)")
+    plt.ylim(bottom=0)
+    plt.show()
