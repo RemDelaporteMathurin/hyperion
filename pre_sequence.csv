@@ -1,0 +1,180 @@
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 13-39-45-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 13:44:11-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 13-39-47-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 13:48:49-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 13-48-35-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 13:53:25-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 13-57-56-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 13:58:07-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 13-57-58-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:02:44-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-01-21-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:07:22-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-01-22-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:12:00-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-19-53-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:20:03-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-19-55-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:24:40-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-37-00-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:37:10-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-42-32-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:42:44-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.207,0.031,2.305,74.760,74.760,,
+Totals w/o ISTD(s):,74.760
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-42-33-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:47:20-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.181,0.032,2.965,93.376,93.376,,
+Totals w/o ISTD(s):,93.376
+
+Sample name:,purge
+Operator:,SYSTEM (SYSTEM),Data file:,atmosphere_blank.amx2024-03-01 14-42-35-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:51:55-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,atmosphere_blank.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.178,0.034,12.477,361.667,361.667,,
+Totals w/o ISTD(s):,361.667
+
+Sample name:,sample
+Operator:,SYSTEM (SYSTEM),Data file:,calibration_method_iter7.amx2024-03-01 14-55-45-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:56:05-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.193,0.035,24.225,693.003,693.003,,
+Totals w/o ISTD(s):,693.003
+
+Sample name:,sample
+Operator:,SYSTEM (SYSTEM),Data file:,calibration_method_iter7.amx2024-03-01 14-55-47-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 14:58:33-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.174,0.035,31.590,900.721,900.721,,
+Totals w/o ISTD(s):,900.721
+
+Sample name:,sample
+Operator:,SYSTEM (SYSTEM),Data file:,calibration_method_iter7.amx2024-03-01 14-55-48-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 15:00:59-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.175,0.035,36.964,1052.300,1052.300,,
+Totals w/o ISTD(s):,1052.300
+
+Sample name:,sample
+Operator:,SYSTEM (SYSTEM),Data file:,calibration_method_iter7.amx2024-03-01 14-55-50-05-00.dx
+Instrument:,Angie C.,Injection date:,2024-03-01 15:03:26-05:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter3.pmx,Calib level:,
+Sample amount:,0.00
+Manually modified:,None,ISTD amounts:,None
+Signal:,TCD1A
+Name,RT [min],RF,Area,Amount  [ppm],Concentration  [ppm],ISTD Name,Group
+hydrogen,1.173,0.035,40.390,1148.928,1148.928,,
+Totals w/o ISTD(s):,1148.928
