@@ -1,0 +1,35 @@
+6/24 detectability:
+10:55 started 500ppm flow
+at some point between made some adjustments, I didn't write down exactly what, mainly trying to purge.
+13:18 started 500ppm flow
+13:58 started furnace 350C
+15:03 turned off furnace, switched to 2sccm argon flow
+
+6/25 detectability:
+11:04 started daq
+11:35 started 500ppm flow
+12:07 turned furnace on to 400C
+13:58 increased furnace to 500C
+16:02 decreased flow to 10sccm argon, decreased furnace to 150C
+
+6/26 detectability:
+11:05 started daq
+11:55 investigated hydrogen traps -> turned out the g2 traps still had a lot of hydrogen, but the g1 traps and the cell didn't, so bypassed the traps for this detectability
+12:41 flowing 500ppm @ 5psi through valve 11
+13:17 turned furnace from 150C -> 600C
+15:05 increased from P~4.5psi to P~21.5psi
+16:20 turned off furnace, flow down to 2sccm
+
+6/27 dry run: 
+11:00 started daq
+11:13 furnace to 600C, argon P=10psi
+~11:40 seeing what I think is a nitrogen peak swelling, but then decreases around a half hour later
+12:07 nturned on hydrogen, ~15 seconds to 50psi
+~13:30 slightly adjusted BPreg
+~15:00 again adjusted BPreg, dP around 5psi
+15:47 furned off hydrogen flow, furnace still on
+
+6/28 dry run:
+11:30 started daq
+11:50 turned on hydrogen -> P_H2 = 45psi, dP = 2psi, P_Ar = 10psi, flow = 20sccm, T = 600C
+16:42 turned off H2, furnace, and lowered argo to 5scccm
