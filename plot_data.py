@@ -43,4 +43,4 @@ def plot_data(filename, t_start, title, vlines = False):
             plt.axvline((event_time - time_start).total_seconds() / 3600, color="red", linestyle="--")
             plt.annotate(name, ((event_time - time_start).total_seconds() / 3600 * 1.02, 1.85), color="red", fontsize=14)
     plt.title(title)
-    return
+    return times_in_hours
