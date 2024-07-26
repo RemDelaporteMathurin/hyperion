@@ -78,7 +78,7 @@ def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="1D_ni
     # Adjust temperature from 760K to 973.15K
     model.T = F.Temperature(973)
 
-    # Adjusted tolerances and time step settings
+    # Adjusted tolerances, time steps would get too small with a small tolerance
     model.settings = F.Settings(
         absolute_tolerance=1e10, relative_tolerance=1e-10, final_time=3 * 3600
     )
@@ -108,16 +108,16 @@ def downstream_flux(t, P_up, permeability, L, D):
     Args:
         t (float, np.array): the time
         P_up (float): upstream partial pressure of H
-        permeability (float): salt permeability
-        L (float): salt thickness
-        D (float): diffusivity of H in the salt
+        permeability (float): nickel permeability
+        L (float): nickel thickness
+        D (float): diffusivity of H in the nickel
 
     Returns:
         float, np.array: the downstream flux of H
     """
     n_array = np.arange(1, 10000)[:, np.newaxis]
     summation = np.sum((-1)**n_array * np.exp(-(np.pi * n_array)**2 * D/L**2 * t), axis=0)
-    return P_up**0.5 * permeability / L * (2*summation + 1)
+    return P_up**0.5 * permeability / L * (2*summation + 1) 
 
 
 if __name__ == "__main__":
@@ -144,7 +144,7 @@ if __name__ == "__main__":
     P_up = 101325 * htm.ureg.Pa
     T = 973.15 * htm.ureg.K
     plt.scatter(times, np.abs(computed_flux), alpha=0.2, label="computed")
-    plt.plot(times, downstream_flux(times * htm.ureg.s, P_up, permeability=nickel_permeability.value(T),
+    plt.plot(times, downstream_flux(times * htm.ureg.s, P_up, permeability=nickel_diffusivity.value(T) * nickel_solubility.value(T),
                                     L=nickel_thickness * htm.ureg.m, D=nickel_diffusivity.value(T)),
             color="tab:orange", label="analytical"
             )
