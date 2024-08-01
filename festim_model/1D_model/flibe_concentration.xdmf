@@ -402,79 +402,9 @@
       </Grid>
       <Grid>
         <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="22776.156239024735" />
+        <Time Value="21600" />
         <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
           <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/56</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="25063.771862927209" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/57</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="27580.149049219934" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/58</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="30348.163954141928" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/59</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="33392.980349556121" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/60</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="36742.278384511737" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/61</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="40426.506222962911" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/62</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="44479.156845259204" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/63</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="48937.072529785131" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/64</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="53840.779782763653" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/65</DataItem>
-        </Attribute>
-      </Grid>
-      <Grid>
-        <xi:include xpointer="xpointer(//Grid[@Name=&quot;TimeSeries_mobile_concentration&quot;]/Grid[1]/*[self::Topology or self::Geometry])" />
-        <Time Value="54000" />
-        <Attribute Name="mobile_concentration" AttributeType="Scalar" Center="Node">
-          <DataItem Dimensions="1001 1" Format="HDF">flibe_concentration.h5:/VisualisationVector/66</DataItem>
         </Attribute>
       </Grid>
     </Grid>
