@@ -1,0 +1,2046 @@
+Sequence name:,dry_run_2024-04-19 11-24-11-04-00
+Description:,
+Acquisition date:,2024-04-19 11:24:12-04:00
+Acquired by:,SYSTEM (SYSTEM)
+Data path:,C:\CDSProjects\HYPERION\Results\calibrations\dry_run_2024-04-19 11-24-11-04-00.rslt
+Approved by:,
+Signature:,
+Date:,
+
+Sequence Table:,Bracketing Mode:,None
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-24-18-04-00-r001.dx
+Injection #:,1 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-27-16-04-00-r002.dx
+Injection #:,2 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-30-11-04-00-r003.dx
+Injection #:,3 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-33-05-04-00-r004.dx
+Injection #:,4 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-36-01-04-00-r005.dx
+Injection #:,5 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-38-57-04-00-r006.dx
+Injection #:,6 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-41-51-04-00-r007.dx
+Injection #:,7 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-44-46-04-00-r008.dx
+Injection #:,8 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-47-43-04-00-r009.dx
+Injection #:,9 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-50-37-04-00-r010.dx
+Injection #:,10 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-53-33-04-00-r011.dx
+Injection #:,11 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-56-29-04-00-r012.dx
+Injection #:,12 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 11-59-24-04-00-r013.dx
+Injection #:,13 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-02-21-04-00-r014.dx
+Injection #:,14 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-05-16-04-00-r015.dx
+Injection #:,15 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-08-11-04-00-r016.dx
+Injection #:,16 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-11-08-04-00-r017.dx
+Injection #:,17 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-14-01-04-00-r018.dx
+Injection #:,18 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-16-58-04-00-r019.dx
+Injection #:,19 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-19-53-04-00-r020.dx
+Injection #:,20 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-22-48-04-00-r021.dx
+Injection #:,21 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-25-44-04-00-r022.dx
+Injection #:,22 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-28-38-04-00-r023.dx
+Injection #:,23 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-31-33-04-00-r024.dx
+Injection #:,24 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-34-28-04-00-r025.dx
+Injection #:,25 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-37-25-04-00-r026.dx
+Injection #:,26 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-40-19-04-00-r027.dx
+Injection #:,27 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-43-14-04-00-r028.dx
+Injection #:,28 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-46-10-04-00-r029.dx
+Injection #:,29 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-49-03-04-00-r030.dx
+Injection #:,30 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-51-59-04-00-r031.dx
+Injection #:,31 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-54-53-04-00-r032.dx
+Injection #:,32 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 12-57-49-04-00-r033.dx
+Injection #:,33 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-00-42-04-00-r034.dx
+Injection #:,34 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-03-36-04-00-r035.dx
+Injection #:,35 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-06-30-04-00-r036.dx
+Injection #:,36 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-09-25-04-00-r037.dx
+Injection #:,37 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-12-20-04-00-r038.dx
+Injection #:,38 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-15-14-04-00-r039.dx
+Injection #:,39 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-18-07-04-00-r040.dx
+Injection #:,40 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-21-02-04-00-r041.dx
+Injection #:,41 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-23-57-04-00-r042.dx
+Injection #:,42 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-26-52-04-00-r043.dx
+Injection #:,43 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-29-49-04-00-r044.dx
+Injection #:,44 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-32-43-04-00-r045.dx
+Injection #:,45 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-35-39-04-00-r046.dx
+Injection #:,46 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-38-33-04-00-r047.dx
+Injection #:,47 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-41-29-04-00-r048.dx
+Injection #:,48 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-44-24-04-00-r049.dx
+Injection #:,49 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-47-17-04-00-r050.dx
+Injection #:,50 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-50-11-04-00-r051.dx
+Injection #:,51 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-53-07-04-00-r052.dx
+Injection #:,52 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-56-03-04-00-r053.dx
+Injection #:,53 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 13-59-00-04-00-r054.dx
+Injection #:,54 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-01-54-04-00-r055.dx
+Injection #:,55 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-04-49-04-00-r056.dx
+Injection #:,56 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-07-43-04-00-r057.dx
+Injection #:,57 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-10-37-04-00-r058.dx
+Injection #:,58 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-13-31-04-00-r059.dx
+Injection #:,59 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-16-27-04-00-r060.dx
+Injection #:,60 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-19-21-04-00-r061.dx
+Injection #:,61 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-22-17-04-00-r062.dx
+Injection #:,62 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-25-13-04-00-r063.dx
+Injection #:,63 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-28-07-04-00-r064.dx
+Injection #:,64 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-31-05-04-00-r065.dx
+Injection #:,65 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-33-59-04-00-r066.dx
+Injection #:,66 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-36-55-04-00-r067.dx
+Injection #:,67 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-39-51-04-00-r068.dx
+Injection #:,68 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-42-46-04-00-r069.dx
+Injection #:,69 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-45-42-04-00-r070.dx
+Injection #:,70 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-48-36-04-00-r071.dx
+Injection #:,71 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-51-31-04-00-r072.dx
+Injection #:,72 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-54-27-04-00-r073.dx
+Injection #:,73 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 14-57-22-04-00-r074.dx
+Injection #:,74 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-00-17-04-00-r075.dx
+Injection #:,75 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-03-11-04-00-r076.dx
+Injection #:,76 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-06-06-04-00-r077.dx
+Injection #:,77 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-09-01-04-00-r078.dx
+Injection #:,78 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-11-54-04-00-r079.dx
+Injection #:,79 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-14-49-04-00-r080.dx
+Injection #:,80 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-17-45-04-00-r081.dx
+Injection #:,81 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-20-39-04-00-r082.dx
+Injection #:,82 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-23-35-04-00-r083.dx
+Injection #:,83 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-26-30-04-00-r084.dx
+Injection #:,84 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-29-26-04-00-r085.dx
+Injection #:,85 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-32-20-04-00-r086.dx
+Injection #:,86 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-35-14-04-00-r087.dx
+Injection #:,87 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-38-09-04-00-r088.dx
+Injection #:,88 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-41-03-04-00-r089.dx
+Injection #:,89 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-43-59-04-00-r090.dx
+Injection #:,90 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-46-54-04-00-r091.dx
+Injection #:,91 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-49-49-04-00-r092.dx
+Injection #:,92 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-52-45-04-00-r093.dx
+Injection #:,93 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+Seq. Line:,1
+Location:,Sample name:,sweep_hydrogen,
+Sample info:,"Dry run 03-04-2024 500C, 50psi upstream, 20sccm flow Hopefully doing the whole experiment now, starting with baking and ending with baking."
+Acq. Method:,calibration_method_iter7.amx,Data file:,sweep_hydrogen001-2024-04-19 15-55-38-04-00-r094.dx
+Injection #:,94 of 600,Inj. volume:,0.000 
+Proc. Method:,calibration_iter4.pmx,Sample amount:,0.000
+Sample type:,Sample,Dilution:,1
+Calibration level:,,Multiplier:,1
+
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-24-18-04-00-r001.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:24:35-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-27-16-04-00-r002.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:27:31-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.191,TCD1A,BB  ,5.13602,172.261,172.261,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-30-11-04-00-r003.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:30:24-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-33-05-04-00-r004.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:33:20-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-36-01-04-00-r005.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:36:14-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-38-57-04-00-r006.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:39:09-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-41-51-04-00-r007.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:42:04-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-44-46-04-00-r008.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:45:01-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-47-43-04-00-r009.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:47:56-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-50-37-04-00-r010.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:50:51-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-53-33-04-00-r011.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:53:47-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-56-29-04-00-r012.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:56:43-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 11-59-24-04-00-r013.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 11:59:39-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-02-21-04-00-r014.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:02:35-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-05-16-04-00-r015.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:05:31-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-08-11-04-00-r016.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:08:27-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-11-08-04-00-r017.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:11:21-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-14-01-04-00-r018.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:14:17-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-16-58-04-00-r019.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:17:12-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-19-53-04-00-r020.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:20:06-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-22-48-04-00-r021.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:23:03-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-25-44-04-00-r022.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:25:58-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-28-38-04-00-r023.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:28:51-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-31-33-04-00-r024.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:31:47-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-34-28-04-00-r025.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:34:43-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-37-25-04-00-r026.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:37:37-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-40-19-04-00-r027.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:40:33-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-43-14-04-00-r028.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:43:29-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-46-10-04-00-r029.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:46:23-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-49-03-04-00-r030.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:49:19-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-51-59-04-00-r031.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:52:13-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-54-53-04-00-r032.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:55:08-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 12-57-49-04-00-r033.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 12:58:02-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-00-42-04-00-r034.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:00:56-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-03-36-04-00-r035.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:03:50-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-06-30-04-00-r036.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:06:43-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-09-25-04-00-r037.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:09:38-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-12-20-04-00-r038.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:12:32-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-15-14-04-00-r039.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:15:27-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-18-07-04-00-r040.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:18:21-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-21-02-04-00-r041.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:21:16-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-23-57-04-00-r042.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:24:10-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-26-52-04-00-r043.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:27:07-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.198,TCD1A,VV  ,0.56988,5.735,5.735,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-29-49-04-00-r044.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:30:02-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.195,TCD1A,BV  ,0.70398,10.626,10.626,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-32-43-04-00-r045.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:32:58-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.198,TCD1A,VB  ,0.68207,9.827,9.827,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-35-39-04-00-r046.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:35:52-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.192,TCD1A,BV  ,0.77404,13.181,13.181,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-38-33-04-00-r047.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:38:48-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-41-29-04-00-r048.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:41:42-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.193,TCD1A,VB  ,0.51527,3.744,3.744,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-44-24-04-00-r049.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:44:37-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.192,TCD1A,BV  ,0.68467,9.922,9.922,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-47-17-04-00-r050.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:47:31-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-50-11-04-00-r051.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:50:25-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.192,TCD1A,VB  ,0.90040,17.789,17.789,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-53-07-04-00-r052.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:53:22-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.193,TCD1A,VV  ,0.81876,14.812,14.812,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-56-03-04-00-r053.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:56:17-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,VV  ,0.73776,11.858,11.858,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 13-59-00-04-00-r054.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 13:59:13-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.191,TCD1A,BV  ,0.51213,3.629,3.629,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-01-54-04-00-r055.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:02:06-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-04-49-04-00-r056.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:05:02-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.197,TCD1A,VV  ,0.92178,18.569,18.569,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-07-43-04-00-r057.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:07:57-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.193,TCD1A,VB  ,0.77558,13.237,13.237,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-10-37-04-00-r058.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:10:51-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.186,TCD1A,VV  ,0.90308,17.887,17.887,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-13-31-04-00-r059.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:13:45-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.193,TCD1A,VV  ,0.87282,16.783,16.783,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-16-27-04-00-r060.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:16:41-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,VV  ,0.79580,13.974,13.974,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-19-21-04-00-r061.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:19:36-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.193,TCD1A,VV  ,0.88763,17.323,17.323,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-22-17-04-00-r062.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:22:31-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.192,TCD1A,VV  ,0.78801,13.690,13.690,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-25-13-04-00-r063.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:25:27-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,BV  ,0.91965,18.491,18.491,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-28-07-04-00-r064.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:28:22-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,VV  ,0.74200,12.012,12.012,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-31-05-04-00-r065.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:31:19-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.202,TCD1A,VV  ,1.01312,21.900,21.900,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-33-59-04-00-r066.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:34:14-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.200,TCD1A,VV  ,0.60620,7.060,7.060,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-36-55-04-00-r067.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:37:09-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.191,TCD1A,VV  ,0.74772,12.221,12.221,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-39-51-04-00-r068.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:40:05-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,VV  ,1.01513,21.973,21.973,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-42-46-04-00-r069.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:43:01-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,VV  ,1.01962,22.137,22.137,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-45-42-04-00-r070.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:45:55-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.197,TCD1A,BV  ,0.82344,14.983,14.983,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-48-36-04-00-r071.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:48:49-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.191,TCD1A,VV  ,0.90290,17.880,17.880,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-51-31-04-00-r072.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:51:45-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.195,TCD1A,VV  ,0.82541,15.054,15.054,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-54-27-04-00-r073.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:54:42-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.196,TCD1A,VB  ,0.76354,12.798,12.798,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 14-57-22-04-00-r074.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 14:57:36-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.193,TCD1A,VV  ,0.57406,5.888,5.888,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-00-17-04-00-r075.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:00:29-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.197,TCD1A,VV  ,0.81308,14.605,14.605,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-03-11-04-00-r076.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:03:25-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.195,TCD1A,VV  ,0.89415,17.561,17.561,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-06-06-04-00-r077.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:06:20-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.189,TCD1A,VV  ,0.92910,18.836,18.836,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-09-01-04-00-r078.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:09:14-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.187,TCD1A,BV  ,0.80225,14.210,14.210,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-11-54-04-00-r079.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:12:09-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.190,TCD1A,VV  ,0.79662,14.004,14.004,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-14-49-04-00-r080.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:15:03-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-17-45-04-00-r081.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:17:58-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-20-39-04-00-r082.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:20:53-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,BV  ,0.66137,9.072,9.072,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-23-35-04-00-r083.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:23:50-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.195,TCD1A,VV  ,0.69971,10.470,10.470,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-26-30-04-00-r084.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:26:44-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [ppm],Conc. [ppm],Name
+1.194,TCD1A,BV  ,0.64948,8.638,8.638,hydrogen
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-29-26-04-00-r085.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:29:39-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-32-20-04-00-r086.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:32:34-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-35-14-04-00-r087.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:35:28-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-38-09-04-00-r088.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:38:22-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-41-03-04-00-r089.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:41:17-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-43-59-04-00-r090.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:44:12-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-46-54-04-00-r091.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:47:09-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-49-49-04-00-r092.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:50:03-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-52-45-04-00-r093.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:52:58-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Sample name:,sweep_hydrogen
+Operator:,SYSTEM (SYSTEM),Data file:,sweep_hydrogen001-2024-04-19 15-55-38-04-00-r094.dx
+Instrument:,Angie C.,Injection date:,2024-04-19 15:55:52-04:00
+Inj. volume:,0.000 ,Location:,
+Acq. method:,calibration_method_iter7.amx,Type:,Sample
+Processing method:,calibration_iter4.pmx,Sample amount:,0.00
+Manually modified:,None
+RT [min],Signal,Type,Area,Amount [],Conc. [],Name
+
+Method Summary
+Processing method:,calibration_iter4.pmx
+Method version:,2024-0419-1826-16589
+Line#,Location,Sample  Name,Injection modified,Acq. Method,ACQ Method Version
+1,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+,,sweep_hydrogen,2024-04-23 11:40:22-04:00,calibration_method_iter7.amx,2024-0216-1622-53858
+Calibration standard statistics:
+Compound:,hydrogen,Signal:,TCD1A
+Statistic results not available
+Sample statistics:
+Compound:,hydrogen,Signal:,TCD1A
+Line#,Injection Acquired Date,Sample Name,Location,Inj#,Type,RT [min],Amount [ppm],Concentration [ppm],Area
+1,2024-04-19 11:27:31-04:00,sweep_hydrogen,,2,BB  ,1.191,172.2609,172.2609,5.136
+1,2024-04-19 13:27:07-04:00,sweep_hydrogen,,43,VV  ,1.198,5.7351,5.7351,0.570
+1,2024-04-19 13:30:02-04:00,sweep_hydrogen,,44,BV  ,1.195,10.6260,10.6260,0.704
+1,2024-04-19 13:32:58-04:00,sweep_hydrogen,,45,VB  ,1.198,9.8268,9.8268,0.682
+1,2024-04-19 13:35:52-04:00,sweep_hydrogen,,46,BV  ,1.192,13.1810,13.1810,0.774
+1,2024-04-19 13:41:42-04:00,sweep_hydrogen,,48,VB  ,1.193,3.7435,3.7435,0.515
+1,2024-04-19 13:44:37-04:00,sweep_hydrogen,,49,BV  ,1.192,9.9216,9.9216,0.685
+1,2024-04-19 13:50:25-04:00,sweep_hydrogen,,51,VB  ,1.192,17.7892,17.7892,0.900
+1,2024-04-19 13:53:22-04:00,sweep_hydrogen,,52,VV  ,1.193,14.8119,14.8119,0.819
+1,2024-04-19 13:56:17-04:00,sweep_hydrogen,,53,VV  ,1.194,11.8577,11.8577,0.738
+1,2024-04-19 13:59:13-04:00,sweep_hydrogen,,54,BV  ,1.191,3.6291,3.6291,0.512
+1,2024-04-19 14:05:02-04:00,sweep_hydrogen,,56,VV  ,1.197,18.5690,18.5690,0.922
+1,2024-04-19 14:07:57-04:00,sweep_hydrogen,,57,VB  ,1.193,13.2370,13.2370,0.776
+1,2024-04-19 14:10:51-04:00,sweep_hydrogen,,58,VV  ,1.186,17.8871,17.8871,0.903
+1,2024-04-19 14:13:45-04:00,sweep_hydrogen,,59,VV  ,1.193,16.7835,16.7835,0.873
+1,2024-04-19 14:16:41-04:00,sweep_hydrogen,,60,VV  ,1.194,13.9745,13.9745,0.796
+1,2024-04-19 14:19:36-04:00,sweep_hydrogen,,61,VV  ,1.193,17.3235,17.3235,0.888
+1,2024-04-19 14:22:31-04:00,sweep_hydrogen,,62,VV  ,1.192,13.6902,13.6902,0.788
+1,2024-04-19 14:25:27-04:00,sweep_hydrogen,,63,BV  ,1.194,18.4912,18.4912,0.920
+1,2024-04-19 14:28:22-04:00,sweep_hydrogen,,64,VV  ,1.194,12.0124,12.0124,0.742
+1,2024-04-19 14:31:19-04:00,sweep_hydrogen,,65,VV  ,1.202,21.9002,21.9002,1.013
+1,2024-04-19 14:34:14-04:00,sweep_hydrogen,,66,VV  ,1.200,7.0600,7.0600,0.606
+1,2024-04-19 14:37:09-04:00,sweep_hydrogen,,67,VV  ,1.191,12.2210,12.2210,0.748
+1,2024-04-19 14:40:05-04:00,sweep_hydrogen,,68,VV  ,1.194,21.9733,21.9733,1.015
+1,2024-04-19 14:43:01-04:00,sweep_hydrogen,,69,VV  ,1.194,22.1372,22.1372,1.020
+1,2024-04-19 14:45:55-04:00,sweep_hydrogen,,70,BV  ,1.197,14.9826,14.9826,0.823
+1,2024-04-19 14:48:49-04:00,sweep_hydrogen,,71,VV  ,1.191,17.8804,17.8804,0.903
+1,2024-04-19 14:51:45-04:00,sweep_hydrogen,,72,VV  ,1.195,15.0542,15.0542,0.825
+1,2024-04-19 14:54:42-04:00,sweep_hydrogen,,73,VB  ,1.196,12.7980,12.7980,0.764
+1,2024-04-19 14:57:36-04:00,sweep_hydrogen,,74,VV  ,1.193,5.8876,5.8876,0.574
+1,2024-04-19 15:00:29-04:00,sweep_hydrogen,,75,VV  ,1.197,14.6045,14.6045,0.813
+1,2024-04-19 15:03:25-04:00,sweep_hydrogen,,76,VV  ,1.195,17.5612,17.5612,0.894
+1,2024-04-19 15:06:20-04:00,sweep_hydrogen,,77,VV  ,1.189,18.8357,18.8357,0.929
+1,2024-04-19 15:09:14-04:00,sweep_hydrogen,,78,BV  ,1.187,14.2097,14.2097,0.802
+1,2024-04-19 15:12:09-04:00,sweep_hydrogen,,79,VV  ,1.190,14.0043,14.0043,0.797
+1,2024-04-19 15:20:53-04:00,sweep_hydrogen,,82,BV  ,1.194,9.0720,9.0720,0.661
+1,2024-04-19 15:23:50-04:00,sweep_hydrogen,,83,VV  ,1.195,10.4702,10.4702,0.700
+1,2024-04-19 15:26:44-04:00,sweep_hydrogen,,84,BV  ,1.194,8.6382,8.6382,0.649
+,,,,,Average,1.194,17.7537,17.7537,0.899
+,,,,,Standard Deviation,0.003,26.1840,26.1840,0.718
+,,,,,RSD,0.266,147.4847,147.4847,79.825
+
+Acquisition method:
+
+Acquisition Method:,calibration_method_iter7.amx
+Path:,C:\CDSProjects\HYPERION\Results\calibrations\dry_run_2024-04-19 11-24-11-04-00.rslt
+1,Method Information
+Last Saved As:,C:\CDSProjects\HYPERION\Methods\calibration_method_iter7.amx,Modified:,2024-04-05 10:07:46-04:00,Modifier:,SYSTEM (SYSTEM)
+Created:,2024-02-16 11:22:53-05:00,Creator:,SYSTEM (SYSTEM),Description:,
+Version:,2024-0216-1622-53858,Method Status:,Generic
+2,GC
+Module Display Name:,Agilent 8890,Module Type:,GC,Order:,1
+2.1,GC Summary
+Run Time:,2.5 min,Post Run Time:,0 min
+2.2,Oven
+Equilibration Time:,0 min,Max Temperature:,275 °C,Maximum Temperature Override:,Enabled
+Slow Fan:,Disabled
+2.2.1,Temperature
+Setpoint:,On,(Initial):,50 °C,Hold Time:,2.5 min
+Post Run:,0 °C
+2.3,Column
+Column Outlet Pressure:,0 psi
+2.3.1,Column #1
+Column Information:,Agilent G3591-81022,Description:,MolSieve 5A,Temperature Range:,-1 °C—281 °C (281 °C)
+Packed:,,Heater:,Oven,Column lock:,Unlocked
+In:,PCM A ArMe,Out:,Front Detector TCD,Control Mode:,Constant Flow
+2.3.1.1,Flow
+Setpoint:,On,(Initial):,0 mL/min,Post Run:,1.1032E+06 mL/min
+2.3.2,Column #2
+Column Information:,Agilent G3591-81023,Description:,HayeSep Q,Temperature Range:,-1 °C—281 °C (281 °C)
+Packed:,,Heater:,Oven,Column lock:,Unlocked
+In:,PCM A ArMe,Out:,Other,Control Mode:,Constant Flow
+2.3.2.1,Flow
+Setpoint:,On,(Initial):,0 mL/min,Post Run:,1.1032E+06 mL/min
+2.4,Front Detector TCD
+Makeup:,N2,Heater:,On    150 °C,Reference Flow:,On    10 mL/min
+Makeup Flow:,On    5 mL/min,Carrier Gas Flow Correction:,Constant Makeup Flow,Filament:,On
+Negative Polarity:,On,Blank Evaluation Setpoints:,,Perform Blank Evaluation Test:,Off
+2.5,Detector Evaluation
+Perform Detector Evaluation Test:,Off
+2.6,Peak Evaluation
+Perform Peak Evaluation Test:,Off
+2.7,Valve 1
+Switching Valve:,Off
+2.8,Valve 10
+Other:,Off
+2.9,PCM A
+2.9.1,PCM A ArMe
+PCM A ArMe:,Supplies Column 1
+2.9.2,Aux PCM A ArMe
+Control Mode:,Forward Pressure,Aux PCM A ArMe:,(unused)
+2.9.2.1,Pressure
+Setpoint:,On,(Initial):,27 psi
+2.10,Valve Box
+Heater:,On    100 °C
+2.11,Signals
+2.11.1,Signal #1:  Front Signal
+Description:,Front Signal,Details:,Front Signal (TCD),Save:,On
+Data Rate:,50 Hz,Dual Injection Assignment:,Front Sample,Zero Signal:,Zero @ 0 min
+2.11.2,Signal #2: 
+Description:,None
+2.11.3,Signal #3: 
+Description:,None
+2.11.4,Signal #4: 
+Description:,None
+2.11.5,Signal #5: 
+Description:,None
+2.11.6,Signal #6: 
+Description:,None
+2.11.7,Signal #7: 
+Description:,None
+2.11.8,Signal #8: 
+Description:,None
+2.12,Run Time Events
+Run Time Events
+Time,Event,Position,Setpoint
+0.1 min,Valve,Valve 1,On
+1.5 min,Valve,Valve 1,Off
+3,Method Properties
+Instrument Technique:,Gas Chromatography
+4,Schema version
+Schema version:,2.3
+Method Audit Trail
+Method audit trail is not printed
+Processing method:
+Data Analysis Method:,calibration_iter4.pmx
+Path:,C:\CDSProjects\HYPERION\Results\calibrations\dry_run_2024-04-19 11-24-11-04-00.rslt
+1,Method Information
+Last Saved As:,C:\CDSProjects\HYPERION\Results\calibrations\dry_run_2024-04-19 11-24-11-04-00.rslt\calibration_iter4.pmx,Modified:,2024-04-19 14:27:06-04:00,Modifier:,SYSTEM (SYSTEM)
+Created:,2024-04-19 14:26:16-04:00,Creator:,SYSTEM (SYSTEM),Description:,
+Version:,2024-0419-1826-16589,Method Status:,Generic,Type:,GC/LC Quantitative
+2,Method Parameters
+2.1,Signals
+2.1.1,Blank Subtraction
+Blank subtraction:,None,Used blank:,Defined in sequence,Specific blank path:,
+Specific blank:,,Subtract blank if data rates are different:,No,Signal matching mode:,Perform blank subtraction if signal names match
+2.1.2,Scaling
+From time:,min,To time:,min,Use time axis:,No
+From response:,,To response:,,Use response axis:,No
+2.1.3,Chromatogram Smoothing
+Smoothing algorithm:,None
+2.2,ChemStation integrator
+2.2.1,ChemStation integrator parameters
+Tangent skim mode:,Standard,Baseline correction:,Advanced,Front peak skim height ratio:,0.00
+Tail peak skim height ratio:,0.00,Skim valley ratio:,20.00,Peak to valley ratio:,500.00
+2.2.1.1,Initial timed events
+Use,Time,Event,Value
+Yes,0.000 min,Slope sensitivity,1
+Yes,0.000 min,Peak width,0.02
+Yes,0.000 min,Area reject,0.5
+Yes,0.000 min,Height reject,0.2
+Yes,0.000 min,Shoulders mode,Off
+Yes,0.000 min,Area% reject,0
+2.3,Compound parameters
+Include ISTD Amount:,No,Is normalized:,No,Apply correction factors to normalized concentrations:,No
+Level count:,5,ISTD method:,No,Use time reference compounds:,No
+Use RRT reference compounds:,No,Norm amount:,100.0,Norm amount unit:,%
+Response factor calculation mode:,Response per amount,Use individual points:,No,Concentration calculation:,Amount * Multipliers * Dil. factor
+Calculate mass %:,No,Allow level specific ISTD amounts:,No,Qualifier count:,2
+Qualifier RT Window:,0.010 min,Qualifier response window:,20.0 percent,Response Window Type:,Relative
+2.3.1,Expected compounds
+2.3.1.1,Expected compound settings
+Name:,hydrogen,Signal:,TCD1A,Exp. RT:,1.200 min
+Absolute RT window:,0.000 min,Relative RT window:,5.000 percent,RT update:,Never
+RT update factor:,50.000 percent,Factor:,1.000,Associated time ref.:,
+Associated RRT reference:,,Relative retention time:,,Peak match:,Closest
+Response Window Type:,Relative,Role:,None,Amount unit:,ppm
+Concentration unit:,ppm,Use in normalization:,Yes,Multiplier:,1.00000
+Response:,Area,Associated ISTD:,,ISTD amount:,
+Calibration curve:,,Mode:,Curve,Weighting method:,None
+Curve reference:,,Ref. correction:,1.00000,Curve model:,Linear
+Origin:,Include,Response scaling:,None,Calibration amounts:,"49.50000, 486.00000, 1992.00000, 29100.00000"
+Digits per level:,9,Sensitivity:,50,UV spectrum:,No
+MS reference spectrum:,No
+2.4,System Suitability
+EP:,No,Column performance:,None,JP:,No
+USP:,No,Signal to noise:,None,Noise calculation:,P2P
+Use blank reference for noise:,on blank,Use blank reference for relative noise:,on blank,Calculate noise before or after peak:,before peak start
+Range mode for Noise Selection:,Automatic,Noise range end time:,0.60,Noise range start time:,0.50
+Noise range relative end time:,0.40,Noise range relative start time:,0.00,Overwrite column parameters:,No
+Tangent calculation mode:,Standard
+2.5,Custom calculations
+Last imported file:,,Embedded file:,No,Created by:,
+Creation date:,,Last modified by:,,Last modified date:,
+File version:,,Custom calculations file:,
+2.6,Reporting parameters
+Use time axis:,No,Use response axis:,No,From time:,
+To time:,,From response:,,To response:,
+2.6.1,General reporting parameters
+Row ID,Report #,Report template,Report file name,Report for sample types,Do print,Printer name,Do create file,Copy report location
+1,1,calibration_report.rdl,<DX>_<R>,All sample types,No,Local Printer,Yes,Windows file system
+2,2,SequenceSummary_Extended_Letter.rdl,<DX>_<R>_long,All sample types,No,Local Printer,Yes,Windows file system
+Row ID,Report copy folder,Report selected signals,Report file type
+1,C:\CDSProjects\HYPERION\Reports\,All signals,"pdf, csv, txt"
+2,C:\CDSProjects\HYPERION\Reports\,All signals,"pdf, csv, txt"
+3,Calibration curves
+Calibration curves modification dates
+Compound,Signal,Modification date
+hydrogen,TCD1A,2024-04-19 14:26:23-04:00
+Method Audit Trail
+Method audit trail is not printed

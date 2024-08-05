@@ -28,7 +28,7 @@ def plot_data(filename, t_start, title, vlines = False):
     time_start = parse(t_start)
     times_in_seconds = np.array(convert_dates_to_time(dates, time_start))
     times_in_hours = times_in_seconds / 3600
-    fig = plt.figure(figsize = (16,9))
+    fig = plt.figure(figsize = (8,6))
     plt.plot(times_in_hours, concentrations, marker="o")
     plt.fill_between(times_in_hours, concentrations, alpha=0.3)
     plt.ylabel(f"H2 concentration ({concentrations.units: ~P})")
@@ -41,6 +41,6 @@ def plot_data(filename, t_start, title, vlines = False):
             event_time = parse(line[0])
             name = "$t_{"+line[1]+"}$"
             plt.axvline((event_time - time_start).total_seconds() / 3600, color="red", linestyle="--")
-            plt.annotate(name, ((event_time - time_start).total_seconds() / 3600 * 1.02, 1.85), color="red", fontsize=14)
+            plt.annotate(name, ((event_time - time_start).total_seconds() / 3600 * 1.02, -25.85), color="red", fontsize=14)
     plt.title(title)
-    return
+    return times_in_hours
