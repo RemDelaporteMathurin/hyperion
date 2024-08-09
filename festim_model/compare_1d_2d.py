@@ -82,8 +82,8 @@ errors = {"temperatures": T_values,
           "permeability error": []}
 
 # Change these if changing temperature or changing thickness/diameters
-T_plot = False
-thickness_comp = True
+T_plot = True
+thickness_comp = False
 if T_plot:
 
     for T in T_values:
@@ -98,15 +98,15 @@ if T_plot:
         t_2d = data_2d["ts"] * ureg.s
         # Adjusted the flux id to "solute_flux_surface_3"
         # Also dividing by the area of the permeating surface to get the same units as the 1D simulations
-        flux_1d = np.abs(data_1d["solute_flux_surface_3"]) * ureg.particle * ureg.s**-1 / np.pi / (salt_diameter/2)**2 * ureg.m**-2
-        flux_2d = np.abs(data_2d["solute_flux_surface_3"]) * ureg.particle * ureg.s**-1 / np.pi / (salt_diameter/2)**2 * ureg.m**-2
+        flux_1d = np.abs(data_1d["Flux_surface_3_solute"]) * ureg.particle * ureg.s**-1 / np.pi / (salt_diameter/2)**2 * ureg.m**-2
+        flux_2d = np.abs(data_2d["Flux_surface_3_solute"]) * ureg.particle * ureg.s**-1 / np.pi / (salt_diameter/2)**2 * ureg.m**-2
         # Calculating the lateral flux
         # Dividing by area of cylinder wall
         flux_lateral = np.abs(data_2d["solute_flux_surface_2"]) * ureg.particle * ureg.s**-1 / np.pi / salt_diameter / salt_thickness * ureg.m**-2
         flux_2d_total = np.add(flux_2d, flux_lateral)
-        #plt.plot(t_1d, flux_1d, color=cmap(norm(T)))
-        #plt.plot(t_2d, flux_2d, color=cmap(norm(T)), linestyle = "dashed")
-        plt.plot(t_2d, flux_lateral, color =cmap(norm(T)), linestyle = 'dotted')
+        plt.plot(t_1d, flux_1d, color=cmap(norm(T)))
+        plt.plot(t_2d, flux_2d, color=cmap(norm(T)), linestyle = "dashed")
+        #plt.plot(t_2d, flux_lateral, color =cmap(norm(T)), linestyle = 'dotted')
 
         plt.fill(
             np.append(t_1d, t_2d[::-1]),
@@ -128,7 +128,7 @@ if T_plot:
 
     plt.xlabel(f"Time ({plt.gca().xaxis.get_units()})")
     plt.ylabel(f"Permeation flux ({plt.gca().yaxis.get_units():~P})")
-    plt.title("1D vs. 2D at t = 8mm, D = 80mm")
+    plt.title(f"1D vs. 2D at t = {salt_thickness*1000:.2f}mm, D = {salt_diameter*1000:.2f}mm")
     plt.xlim(left=0)
     plt.ylim(bottom=0)
 
@@ -162,10 +162,10 @@ if thickness_comp:
           }
         for thickness in thicknesses:
             data_1d = np.genfromtxt(
-                f"results/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d/derived_quantities.csv", delimiter=",", names=True
+                f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d/derived_quantities.csv", delimiter=",", names=True
             )
             data_2d = np.genfromtxt(
-                f"results/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d/derived_quantities.csv", delimiter=",", names=True
+                f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d/derived_quantities.csv", delimiter=",", names=True
             )
             t_1d = data_1d["ts"] * ureg.s
             t_2d = data_2d["ts"] * ureg.s

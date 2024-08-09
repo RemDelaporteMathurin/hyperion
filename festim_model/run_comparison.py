@@ -4,7 +4,7 @@ from festim_model_copy import make_model
 import numpy as np
 import h_transport_materials as htm
 
-salt_thickness = 2e-3
+salt_thickness = 8e-3
 salt_diameter = 80e-3
 
 T_values = np.linspace(700, 900, num=5)
@@ -15,6 +15,7 @@ diameters = np.linspace(20e-3, 100e-3, num = 5)
 
 if __name__ == "__main__":
 
+    '''
     for diameter in diameters:
         for thickness in thicknesses:
             model_2d = make_model(
@@ -22,7 +23,7 @@ if __name__ == "__main__":
                 diameter,
                 nx=40,
                 ny=20,
-                folder = f"results/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d",
+                folder = f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d",
                 two_dimensional = True
             )
             
@@ -36,7 +37,7 @@ if __name__ == "__main__":
                 diameter,
                 nx=40,
                 ny=20,
-                folder = f"results/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d",
+                folder = f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d",
                 two_dimensional = False
             )
 
@@ -44,8 +45,8 @@ if __name__ == "__main__":
 
             model_1d.initialise()
             model_1d.run()
-
 '''
+
     for T in T_values:
         model_2d = make_model(
             salt_thickness,
@@ -74,5 +75,5 @@ if __name__ == "__main__":
 
         model_1d.initialise()
         model_1d.run()    
-'''
+
 

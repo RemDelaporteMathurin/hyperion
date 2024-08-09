@@ -7,7 +7,7 @@ import numpy as np
 
 print(f"HTM version {htm.__version__}")
 
-P_up = 1000
+P_up = 100
 
 def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="results", pressure = P_up):
     fenics_mesh = f.RectangleMesh(
@@ -56,7 +56,8 @@ def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="resul
         D_0=flibe_diffusivity.pre_exp.magnitude,
         E_D=flibe_diffusivity.act_energy.magnitude,
         S_0 = flibe_solubility.pre_exp.magnitude,
-        E_S = flibe_solubility.act_energy.magnitude
+        E_S = flibe_solubility.act_energy.magnitude,
+        solubility_law = "henry"
     )
 
 
@@ -93,7 +94,7 @@ def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="resul
         derived_quantities,
     ]
 
-    # model.log_level = 20
+    #model.log_level = 20
 
     return model
 
