@@ -7,7 +7,7 @@ import numpy as np
 
 print(f"HTM version {htm.__version__}")
 
-P_up = 1000
+P_up = 100
 
 def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="results", pressure = P_up):
     fenics_mesh = f.RectangleMesh(

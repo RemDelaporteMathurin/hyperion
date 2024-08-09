@@ -82,8 +82,8 @@ errors = {"temperatures": T_values,
           "permeability error": []}
 
 # Change these if changing temperature or changing thickness/diameters
-T_plot = False
-thickness_comp = True
+T_plot = True
+thickness_comp = False
 if T_plot:
 
     for T in T_values:
@@ -93,6 +93,8 @@ if T_plot:
         data_2d = np.genfromtxt(
             f"results/{T:.0f}K/2d/derived_quantities.csv", delimiter=",", names=True
         )
+
+        print(data_1d)
 
         t_1d = data_1d["ts"] * ureg.s
         t_2d = data_2d["ts"] * ureg.s
@@ -104,9 +106,9 @@ if T_plot:
         # Dividing by area of cylinder wall
         flux_lateral = np.abs(data_2d["solute_flux_surface_2"]) * ureg.particle * ureg.s**-1 / np.pi / salt_diameter / salt_thickness * ureg.m**-2
         flux_2d_total = np.add(flux_2d, flux_lateral)
-        #plt.plot(t_1d, flux_1d, color=cmap(norm(T)))
-        #plt.plot(t_2d, flux_2d, color=cmap(norm(T)), linestyle = "dashed")
-        plt.plot(t_2d, flux_lateral, color =cmap(norm(T)), linestyle = 'dotted')
+        plt.plot(t_1d, flux_1d, color=cmap(norm(T)))
+        plt.plot(t_2d, flux_2d, color=cmap(norm(T)), linestyle = "dashed")
+        #plt.plot(t_2d, flux_lateral, color =cmap(norm(T)), linestyle = 'dotted')
 
         plt.fill(
             np.append(t_1d, t_2d[::-1]),
@@ -128,13 +130,13 @@ if T_plot:
 
     plt.xlabel(f"Time ({plt.gca().xaxis.get_units()})")
     plt.ylabel(f"Permeation flux ({plt.gca().yaxis.get_units():~P})")
-    plt.title("1D vs. 2D at t = 8mm, D = 80mm")
+    plt.title(f"1D vs. 2D at $\ell$ = {salt_thickness*1000:.2f}mm, $d$ = {salt_diameter*1000:.2f}mm")
     plt.xlim(left=0)
-    plt.ylim(bottom=0)
+    plt.ylim(bottom=0, top = 2.5e16)
 
     plt.gca().spines[["right", "top"]].set_visible(False)
 
-    #plt.savefig('/Users/jaron/Downloads/lateral.jpg')
+    plt.savefig('/Users/jaron/Downloads/8mm_2D.svg')
     plt.show()
 
 
