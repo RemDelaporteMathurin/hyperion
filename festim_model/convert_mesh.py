@@ -2,8 +2,8 @@ import meshio
 
 def convert_med_to_xdmf(
     med_file,
-    cell_file="3D_cad/mesh_domains.xdmf",
-    facet_file="3D_cad/mesh_boundaries.xdmf",
+    cell_file="3D_cad/8mm_2mm_nickel/mesh_domains.xdmf",
+    facet_file="3D_cad/8mm_2mm_nickel/mesh_boundaries.xdmf",
     cell_type="triangle",
     facet_type="line",
 ):
@@ -46,7 +46,9 @@ def convert_med_to_xdmf(
 
 
 if __name__ == "__main__":
-    filename = "3D_cad/8mm_thick_2D.med"
+
+
+    filename = "3D_cad/8mm_2mm_nickel/8mm_2mm_nickel.med"
     correspondance_dict, cell_data_types = convert_med_to_xdmf(
         filename)
     print(correspondance_dict)

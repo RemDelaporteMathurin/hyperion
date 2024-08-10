@@ -3,7 +3,6 @@ import fenics as f
 import h_transport_materials as htm
 import numpy as np
 
-#from cylindrical_integrator import CylindricalFlux
 
 print(f"HTM version {htm.__version__}")
 
@@ -85,7 +84,7 @@ def make_model(thickness, diameter, nx, ny, two_dimensional: bool, folder="resul
 
     # Changing both of the derived quantities to be cylindrical surface flux
     derived_quantities = F.DerivedQuantities(
-        [F.SurfaceFluxCylindrical(field = "solute", surface=2), F.SurfaceFluxCylindrical(field = "solute", surface=3)],
+        [F.SurfaceFluxCylindrical(field = "solute", surface=2), F.SurfaceFluxCylindrical(field = "solute", surface=3), F.SurfaceFluxCylindrical(field = 'solute', surface = 1)],
         filename=f"{folder}/derived_quantities.csv",
     )
 

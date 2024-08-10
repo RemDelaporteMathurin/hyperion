@@ -8,14 +8,16 @@ salt_thickness = 8e-3
 salt_diameter = 80e-3
 
 T_values = np.linspace(700, 900, num=5)
-T_val = 773
+T_val = 900
 
-thick_plot = False
-T_plot = True
+thick_plot = True
+T_plot = False
 
 
-thicknesses = np.linspace(2e-3, 10e-3, num = 5)
-diameters = np.linspace(20e-3, 100e-3, num = 5)
+thicknesses = np.linspace(1e-3, 20e-3, num =20)
+diameters = np.linspace(10e-3, 200e-3, num = 20)
+#thicknesses = [5e-3]
+#diameters = [80e-3]
 
 if __name__ == "__main__":
 
@@ -25,9 +27,9 @@ if __name__ == "__main__":
                 model_2d = make_model(
                     thickness,
                     diameter,
-                    nx=40,
-                    ny=20,
-                    folder = f"results/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d",
+                    nx=100,
+                    ny=100,
+                    folder = f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d",
                     two_dimensional = True
                 )
                 
@@ -39,9 +41,9 @@ if __name__ == "__main__":
                 model_1d = make_model(
                     thickness,
                     diameter,
-                    nx=40,
-                    ny=20,
-                    folder = f"results/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d",
+                    nx=100,
+                    ny=100,
+                    folder = f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d",
                     two_dimensional = False
                 )
 
@@ -57,9 +59,9 @@ if __name__ == "__main__":
             model_2d = make_model(
                 salt_thickness,
                 salt_diameter,
-                nx=40,
-                ny=20,
-                folder=f"results/{T:.0f}K/2d",
+                nx=100,
+                ny=100,
+                folder=f"2D_model/{T:.0f}K/2d",
                 two_dimensional=True,
             )
 
@@ -71,9 +73,9 @@ if __name__ == "__main__":
             model_1d = make_model(
                 salt_thickness,
                 salt_diameter,
-                nx=40,
-                ny=20,
-                folder=f"results/{T:.0f}K/1d",
+                nx=100,
+                ny=100,
+                folder=f"2D_model/{T:.0f}K/1d",
                 two_dimensional=False,
             )
 
@@ -82,36 +84,4 @@ if __name__ == "__main__":
             model_1d.initialise()
             model_1d.run()
 
-if __name__ == "__main__":
-    '''
-
-    for T in T_values:
-        model_2d = make_model(
-            salt_thickness,
-            salt_diameter,
-            nx=40,
-            ny=20,
-            folder=f"results/{T:.0f}K/2d",
-            two_dimensional=True,
-        )
-
-        model_2d.T.value = T
-
-        model_2d.initialise()
-        model_2d.run()
-
-        model_1d = make_model(
-            salt_thickness,
-            salt_diameter,
-            nx=40,
-            ny=20,
-            folder=f"results/{T:.0f}K/1d",
-            two_dimensional=False,
-        )
-
-        model_1d.T.value = T
-
-        model_1d.initialise()
-        model_1d.run()    
-    '''
 
