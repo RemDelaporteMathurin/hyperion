@@ -8,7 +8,7 @@ from convert_mesh import convert_med_to_xdmf
 
 
 P_up = 100
-temp = 700
+temp = 900
 
 def make_model(folder):
     model = F.Simulation()
@@ -27,10 +27,10 @@ def make_model(folder):
     flibe_solubility = htm.solubilities.filter(material=htm.FLIBE, author = 'calderoni')[0]
     flibe = F.Material(
         id=6, # Given by the meshing file
-        D_0=flibe_diffusivity.pre_exp.magnitude*2.268,
-        E_D=flibe_diffusivity.act_energy.magnitude*1.04985,
-        S_0 = flibe_solubility.pre_exp.magnitude*0.96279,
-        E_S = flibe_solubility.act_energy.magnitude*0.987,
+        D_0=flibe_diffusivity.pre_exp.magnitude,
+        E_D=flibe_diffusivity.act_energy.magnitude,
+        S_0 = flibe_solubility.pre_exp.magnitude,
+        E_S = flibe_solubility.act_energy.magnitude,
         solubility_law = "henry"
     )
     R = 8.63e-5
@@ -83,7 +83,7 @@ def make_model(folder):
         absolute_tolerance=1e10,
         relative_tolerance=1e-10,
         chemical_pot=True,
-        final_time = 20*3600,
+        final_time = 8*3600,
         maximum_iterations = 100,
         #transient = False
     )
@@ -97,9 +97,9 @@ def make_model(folder):
 
 if __name__ == "__main__":
 
-    '''
+    
 
-    flibe_thicknesses = [5]
+    flibe_thicknesses = [2, 5, 8, 14]
     nickel_thicknesses = [1,2,3]
 
     for flibe_thickness in flibe_thicknesses:
@@ -115,8 +115,8 @@ if __name__ == "__main__":
 
             model.initialise()
             model.run()
-            '''
-    
+            
+    '''
     folder = '3D_cad/calderoni'
     filename = '3D_cad/calderoni/calderoni.med'
     correspondance_dict, cell_data_types = convert_med_to_xdmf(filename, 
@@ -128,3 +128,4 @@ if __name__ == "__main__":
 
     model.initialise()
     model.run()
+    '''

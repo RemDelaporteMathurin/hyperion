@@ -52,7 +52,7 @@ def prop_errors(flux, times, salt_thickness, temp, P_up, plot = False):
 
     # Using a lambda function so that the length and the pressure are not being fit
     props, cov = curve_fit(lambda t, permeability, D: downstream_flux_salt(t, P_up, salt_thickness, permeability, D), times, np.abs(flux), guess)    
-    print('permeability: ', props[0], 'diffusivity: ', props[1])
+    #print('permeability: ', props[0], 'diffusivity: ', props[1])
     # The calculated solubility and permeability
     perm = flibe_diffusivity.value(temp).magnitude * flibe_solubility.value(temp).magnitude
     sol = props[0]/props[1]
@@ -75,6 +75,8 @@ def prop_errors(flux, times, salt_thickness, temp, P_up, plot = False):
         plt.show()
     return {"diffusivity error": diff_error, "solubility error": sol_error, "permeability error": perm_error }
 
+thicknesses = np.linspace(2e-3, 15e-3, num=14)
+diameters = np.linspace(20e-3, 100e-3, num=9)
 if __name__ == "__main__":
     errors = {"temperatures": T_values,
           "thickness": thicknesses,
@@ -199,7 +201,6 @@ if __name__ == "__main__":
                 errors["diffusivity error"].append(prop_errors(flux_2d.magnitude, t_2d.magnitude, thickness, T_val, P_up, plot = False)['diffusivity error'])
                 errors["solubility error"].append(prop_errors(flux_2d.magnitude, t_2d.magnitude, thickness, T_val, P_up)['solubility error'])
                 errors["permeability error"].append(prop_errors(flux_2d.magnitude, t_2d.magnitude, thickness, T_val, P_up)['permeability error'])
-                print(errors)
             '''
             plt.xlabel(f"Time ({plt.gca().xaxis.get_units()})")
             plt.ylabel(f"Permeation flux ({plt.gca().yaxis.get_units():~P})")
@@ -221,19 +222,18 @@ if __name__ == "__main__":
 
 
     # Creating an error contour like in 1D_model.ipynb
-    XX, YY = np.meshgrid(thicknesses, diameters)
+    XX, YY = np.meshgrid(thicknesses*1e3, diameters*1e3)
     ZZ = overall_error['permeability error']
 
     CF = plt.contourf(XX, YY, ZZ, levels = 100)
-    CS = plt.contour(XX,YY,ZZ, levels = 15, colors = 'white')
+    CS = plt.contour(XX,YY,ZZ, levels = 10, colors = 'white')
     plt.clabel(CS, fmt="%.2f")
-    plt.xlabel("Thickness (m)")
-    plt.ylabel("Diameter (m)")
-    plt.xticks(rotation = 45)
+    plt.xlabel("Thickness (mm)")
+    plt.ylabel("Diameter (mm)")
     from matplotlib.cm import ScalarMappable
-    plt.colorbar(CF, label = 'error (%)')
+    plt.colorbar(CF, label = 'Difference (%)')
     plt.title("Permeability error by varying salt thickness and diameter")
-    plt.plot([0.002,0.01], [0.02, 0.1], '--r')
-    plt.annotate("$d/\ell=10$", (0.0055, 0.071), color = 'r', fontsize = 12)
-    #plt.savefig('/Users/jaron/Downloads/thick_diam_diff.png', dpi = 400)
+    plt.plot([2,10], [20, 100], '--r')
+    plt.annotate("$d/\ell=10$", (4.16, 71), color = 'r', fontsize = 12)
+    plt.savefig('thick_diam_diff.svg')
     plt.show()
