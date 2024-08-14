@@ -14,8 +14,8 @@ thick_plot = True
 T_plot = False
 
 
-thicknesses = np.linspace(1e-3, 20e-3, num =20)
-diameters = np.linspace(10e-3, 200e-3, num = 20)
+thicknesses = np.linspace(1e-3, 15e-3, num =15)
+diameters = np.linspace(10e-3, 100e-3, num = 10)
 #thicknesses = [5e-3]
 #diameters = [80e-3]
 
@@ -27,8 +27,8 @@ if __name__ == "__main__":
                 model_2d = make_model(
                     thickness,
                     diameter,
-                    nx=100,
-                    ny=100,
+                    nx=30,
+                    ny=30,
                     folder = f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/2d",
                     two_dimensional = True
                 )
@@ -41,8 +41,8 @@ if __name__ == "__main__":
                 model_1d = make_model(
                     thickness,
                     diameter,
-                    nx=100,
-                    ny=100,
+                    nx=30,
+                    ny=30,
                     folder = f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d",
                     two_dimensional = False
                 )

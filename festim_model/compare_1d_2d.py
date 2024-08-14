@@ -78,6 +78,7 @@ def prop_errors(flux, times, salt_thickness, temp, P_up, plot = False):
 thicknesses = np.linspace(2e-3, 15e-3, num=14)
 diameters = np.linspace(20e-3, 100e-3, num=9)
 if __name__ == "__main__":
+    
     errors = {"temperatures": T_values,
           "thickness": thicknesses,
           "diffusivity error": [],
@@ -157,6 +158,10 @@ if __name__ == "__main__":
             "solubility error": [],
             "permeability error": [] 
         }
+
+        # Array that contains the flux difference
+        flux_difference_total = []
+
         norm = Normalize(vmin = thicknesses[0]-1e-3, vmax = thicknesses[-1]+1e-3)
         for diameter in diameters:
             errors = {"temperatures": T_values,
@@ -165,6 +170,9 @@ if __name__ == "__main__":
             "solubility error": [],
             "permeability error": []
             }
+            
+            # Individual difference per diameter
+            flux_diff = []
             for thickness in thicknesses:
                 data_1d = np.genfromtxt(
                     f"2D_model/{thickness*1000:.2f}mm_thick_{diameter*1000:.2f}mm_wide/1d/derived_quantities.csv", delimiter=",", names=True
@@ -182,6 +190,8 @@ if __name__ == "__main__":
                 # Dividing by area of cylinder wall
                 flux_lateral = np.abs(data_2d["solute_flux_surface_2"]) * ureg.particle * ureg.s**-1 / np.pi / diameter / thickness * ureg.m**-2
                 flux_bottom = data_2d["solute_flux_surface_1"] * ureg.particle * ureg.s**-1 / np.pi / (diameter/2)**2 * ureg.m**-2
+
+                flux_diff.append(flux_2d[-1].magnitude - flux_lateral[-1].magnitude)
                 '''
                 plt.plot(t_1d, flux_1d, color=cmap(norm(thickness)))
                 plt.plot(t_2d, flux_2d, color=cmap(norm(thickness)), linestyle = "dashed")
@@ -198,9 +208,11 @@ if __name__ == "__main__":
                 )
                 '''
                 # Calculating errors
+                
                 errors["diffusivity error"].append(prop_errors(flux_2d.magnitude, t_2d.magnitude, thickness, T_val, P_up, plot = False)['diffusivity error'])
                 errors["solubility error"].append(prop_errors(flux_2d.magnitude, t_2d.magnitude, thickness, T_val, P_up)['solubility error'])
                 errors["permeability error"].append(prop_errors(flux_2d.magnitude, t_2d.magnitude, thickness, T_val, P_up)['permeability error'])
+                
             '''
             plt.xlabel(f"Time ({plt.gca().xaxis.get_units()})")
             plt.ylabel(f"Permeation flux ({plt.gca().yaxis.get_units():~P})")
@@ -220,6 +232,7 @@ if __name__ == "__main__":
             overall_error['permeability error'].append(errors['permeability error'])
             overall_error['solubility error'].append(errors['solubility error'])
 
+            flux_difference_total.append(flux_diff)
 
     # Creating an error contour like in 1D_model.ipynb
     XX, YY = np.meshgrid(thicknesses*1e3, diameters*1e3)
@@ -233,7 +246,26 @@ if __name__ == "__main__":
     from matplotlib.cm import ScalarMappable
     plt.colorbar(CF, label = 'Difference (%)')
     plt.title("Permeability error by varying salt thickness and diameter")
-    plt.plot([2,10], [20, 100], '--r')
-    plt.annotate("$d/\ell=10$", (4.16, 71), color = 'r', fontsize = 12)
+    plt.plot([2,10], [20, 100], '--', color = 'yellow')
+    plt.annotate("$d/\ell=10$", (5.3, 78), color = 'yellow', fontsize = 12)
     plt.savefig('thick_diam_diff.svg')
     plt.show()
+
+    '''
+    # Comparing lateral vs top surface fluxes
+    XX, YY = np.meshgrid(thicknesses*1e3, diameters*1e3)
+    ZZ = np.array(flux_difference_total)*1e-16
+
+    CF = plt.contourf(XX, YY, ZZ, levels = 100)
+    CS = plt.contour(XX,YY,ZZ, levels = 10, colors = 'white')
+    plt.clabel(CS, fmt="%.2f")
+    plt.xlabel("Thickness (mm)")
+    plt.ylabel("Diameter (mm)")
+    from matplotlib.cm import ScalarMappable
+    plt.colorbar(CF, label = r"Flux difference ($H/m^2/s \cdot 10^{16}$)")
+    plt.plot([1,4], [25, 100], '--', color = 'yellow')
+    plt.annotate("$d/\ell=25$", (3.3, 70), color = 'yellow', fontsize = 12)
+    plt.title("Difference in top and lateral flux")
+    plt.savefig('flux_diff_narrow.svg')
+    plt.show()
+    '''

@@ -34,7 +34,7 @@ nickel_thicknesses = [1e-3, 2e-3, 3e-3]
 
 
 cmap = plt.get_cmap("Blues")
-norm = Normalize(vmin = flibe_thicknesses[0]-5e-3, vmax = flibe_thicknesses[-1]+1e-3)
+norm = Normalize(vmin = flibe_thicknesses[0]-12e-3, vmax = flibe_thicknesses[-1])
 plt.gca().xaxis.set_units(ureg.hour)
 
 
