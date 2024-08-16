@@ -140,7 +140,6 @@ if __name__ == "__main__":
 
         plt.gca().spines[["right", "top"]].set_visible(False)
 
-        #plt.savefig('/Users/jaron/Downloads/8mm_2D.svg')
         plt.show()
 
 
@@ -222,7 +221,6 @@ if __name__ == "__main__":
 
             plt.gca().spines[["right", "top"]].set_visible(False)
 
-            #plt.savefig('/Users/jaron/Downloads/lateral.jpg')
             plt.show()
             '''
             # plotting the errors
@@ -248,7 +246,6 @@ if __name__ == "__main__":
     plt.title("Permeability error by varying salt thickness and diameter")
     plt.plot([2,10], [20, 100], '--', color = 'yellow')
     plt.annotate("$d/\ell=10$", (5.3, 78), color = 'yellow', fontsize = 12)
-    plt.savefig('thick_diam_diff.svg')
     plt.show()
 
     '''
@@ -266,6 +263,5 @@ if __name__ == "__main__":
     plt.plot([1,4], [25, 100], '--', color = 'yellow')
     plt.annotate("$d/\ell=25$", (3.3, 70), color = 'yellow', fontsize = 12)
     plt.title("Difference in top and lateral flux")
-    plt.savefig('flux_diff_narrow.svg')
     plt.show()
     '''
